@@ -1,3 +1,4 @@
+// Document interface
 public interface IDocument
 {
     void LoadDocument();

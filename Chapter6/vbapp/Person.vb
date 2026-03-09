@@ -1,5 +1,7 @@
 Public Class Person
+
     Private _personName As String
+
     Public Property PersonName As String
         Get
             Return _personName
@@ -8,4 +10,5 @@ Public Class Person
             _personName = value
         End Set
     End Property
+    
 End Class

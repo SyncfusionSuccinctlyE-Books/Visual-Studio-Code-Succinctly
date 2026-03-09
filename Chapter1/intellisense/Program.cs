@@ -26,5 +26,4 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
-
 Helpers.IsRunning = true;

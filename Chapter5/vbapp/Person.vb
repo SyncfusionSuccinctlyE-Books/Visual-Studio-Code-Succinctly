@@ -1,5 +1,6 @@
 Public Class Person
     Private _personName As String
+    
     Public Property PersonName As String
         Get
             Return _personName

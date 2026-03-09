@@ -1,3 +1,4 @@
+// Helper class
 public static class Helpers
 {
     public static bool IsRunning {get;set;}
